@@ -1,6 +1,8 @@
 # book-a-week
 Reading one dev-related book every week
 
+<img align="right" src="./images/designing-data-Intensive-applications.jpg"/>
+
     16.03.2019
      
     Высоконагруженные приложения
