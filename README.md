@@ -43,7 +43,7 @@ Aditya Bhargava
 Роберт Мартин
 
 **Clean Code:\
-A Handbook of Agile Software Craftsmanship
+A Handbook of Agile Software Craftsmanship**
 
 Robert C. Martin
  
