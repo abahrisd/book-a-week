@@ -32,3 +32,19 @@ An illustrated guide for programmers and other curious people**
 Aditya Bhargava
  
 ---
+
+<img height="200" align="right" src="./images/clean_code.jpg"/>
+
+*31.03.2019*
+
+**Чистый код\
+Создание, анализ и рефакторинг**
+ 
+Роберт Мартин
+
+**Clean Code:\
+A Handbook of Agile Software Craftsmanship
+
+Robert C. Martin
+ 
+---
