@@ -48,3 +48,19 @@ A Handbook of Agile Software Craftsmanship**
 Robert C. Martin
  
 ---
+
+<img height="200" align="right" src="./images/deadline.jpg"/>
+
+*07.04.2019*
+
+**Deadline\
+Роман об управлением проектами**
+ 
+Том Демарко
+
+**The Deadline\
+ A novel about project management**
+
+Tom DeMarco
+ 
+---
