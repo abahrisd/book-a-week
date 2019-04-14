@@ -64,3 +64,19 @@ Robert C. Martin
 Tom DeMarco
  
 ---
+
+<img height="200" align="right" src="./images/xp.jpg"/>
+
+*07.04.2019*
+
+**Экстремальное программирование\
+ **
+ 
+Кент Бек
+
+**Extreme Programming Explained:\
+ Embrace Change**
+
+Kent Beck
+ 
+---
