@@ -67,7 +67,7 @@ Tom DeMarco
 
 <img height="200" align="right" src="./images/xp.jpg"/>
 
-*07.04.2019*
+*14.04.2019*
 
 **Экстремальное программирование**
  
@@ -77,5 +77,16 @@ Tom DeMarco
  Embrace Change**
 
 Kent Beck
+ 
+---
+
+<img height="200" align="right" src="./images/jedy-tech.png"/>
+
+*21.04.2019*
+
+**Джедайские техники:\
+Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо**
+
+Максим Дорофеев
  
 ---
