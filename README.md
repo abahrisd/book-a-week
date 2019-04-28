@@ -92,3 +92,17 @@ Kent Beck
 <br></br>
 
 ---
+
+<img height="200" align="right" src="./images/critical-chain.jpg"/>
+
+*28.04.2019*
+
+**Критическая цепь**
+ 
+Элияху Голдратт
+
+**Critical Chain**
+
+Eliyahu M. Goldratt
+ 
+---
