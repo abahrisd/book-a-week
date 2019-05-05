@@ -106,3 +106,19 @@ Kent Beck
 Eliyahu M. Goldratt
  
 ---
+
+<img height="200" align="right" src="./images/scrum.jpg"/>
+
+*05.05.2019*
+
+**Scrum\
+Революционный метод управления проектами**
+ 
+Джефф Сазерленд
+
+**Scrum:\
+ The Art of Doing Twice the Work in Half the Time**
+
+Jeff Sutherland
+ 
+---
