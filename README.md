@@ -125,7 +125,7 @@ Jeff Sutherland
 
 <img height="200" align="right" src="./images/primary-greatness.jpg"/>
 
-*05.05.2019*
+*12.05.2019*
 
 **Быть, а не казаться\
 Размышления об истинном успехе**
