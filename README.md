@@ -138,3 +138,18 @@ The 12 Levers of Success**
 Covey Stephen
  
 ---
+
+<img height="200" align="right" src="./images/algorithm-design.jpg"/>
+
+*19.05.2019*
+
+**Алгоритмы\
+Разработка и применение**
+
+Дж. Клейнберг, Е. Тардос 
+
+**Algorithm design**
+
+Jon Kleinberg, Eva Tardos
+
+---
