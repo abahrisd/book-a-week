@@ -153,3 +153,19 @@ Covey Stephen
 Jon Kleinberg, Eva Tardos
 
 ---
+
+<img height="200" align="right" src="./images/code-complete.jpg"/>
+
+*26.05.2019*
+
+**Совершенный код\
+Практическое руководство по разработке программного обеспечения**
+
+Стив Макконнелл
+
+**Code Complete:\
+A Practical Handbook of Software Construction**
+
+Steve McConnell
+
+---
