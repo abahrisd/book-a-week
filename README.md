@@ -169,3 +169,19 @@ A Practical Handbook of Software Construction**
 Steve McConnell
 
 ---
+
+<img height="200" align="right" src="./images/remote.jpg"/>
+
+*02.06.2019*
+
+**Remote\
+Офис не обязателен**
+
+Фрайд Джейсон, Ханссон Дэвид Хейнмейер
+
+**REMOTE:\
+Office Not Required**
+
+Jason Fried, David Heinemeier Hansson
+
+---
