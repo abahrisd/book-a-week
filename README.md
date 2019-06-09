@@ -185,3 +185,19 @@ Office Not Required**
 Jason Fried, David Heinemeier Hansson
 
 ---
+
+<img height="200" align="right" src="./images/cracking-coding-interview.jpg"/>
+
+*09.06.2019*
+
+**Карьера программиста.\
+Как устроиться на работу в Google, Microsoft или другую ведущую IT-компанию**
+
+Макдауэлл Г. Лакман
+
+**Cracking the Coding Interview:\
+150 Programming Interview Questions and Solution**
+
+Gayle Laakmann McDowell
+
+---
