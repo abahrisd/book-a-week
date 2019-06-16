@@ -201,3 +201,19 @@ Jason Fried, David Heinemeier Hansson
 Gayle Laakmann McDowell
 
 ---
+
+<img height="200" align="right" src="./images/cracking-coding-interview.jpg"/>
+
+*16.06.2019*
+
+**Nudge\
+Архитектура выбора**
+
+Ричард Талер, Касс Санстейн
+
+**Nudge\
+Improving Decisions About Health, Wealth, and Happiness**
+
+Richard H. Thaler, Cass R. Sunstein
+
+---
