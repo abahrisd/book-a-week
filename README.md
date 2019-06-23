@@ -217,3 +217,19 @@ Improving Decisions About Health, Wealth, and Happiness**
 Richard H. Thaler, Cass R. Sunstein
 
 ---
+
+<img height="200" align="right" src="./images/computer-science-distiled.jpg"/>
+
+*23.06.2019*
+
+**Теоретический минимум по Computer Science.\
+Все что нужно программисту и разработчику**
+
+Фило Феррейра
+
+**Computer Science Distilled.\
+Learn the Art of Solving Computational Problems**
+
+Wladston Ferreira Filho
+
+---
