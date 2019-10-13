@@ -233,3 +233,78 @@ Learn the Art of Solving Computational Problems**
 Wladston Ferreira Filho
 
 ---
+
+<img height="200" align="right" src="./images/clean-coder.jpg"/>
+
+*30.06.2019*
+
+**Идеальный программист\
+Как стать профессионалом разработки ПО**
+
+Роберт Мартин
+
+**The Clean Coder:\
+A code of conduct for professional programmers**
+
+Robert C. Martin
+
+---
+
+<img height="200" align="right" src="./images/business-like-game.png"/>
+
+*07.07.2019*
+
+**Бизнес как игра
+Грабли российского бизнеса и неожиланные решения**
+
+Сергей Абдульманов, Дмитрий Кибкало, Дмитрий Борисов
+
+---
+
+<img height="200" align="right" src="./images/fatigue.jpg"/>
+
+*14.07.2019*
+
+**Вечно уставший. \
+Как справиться с синдромом хронической усталости**
+
+Джейкоб Тейтельбаум
+
+**The Fatigue and Fibromyalgia Solution\
+The Essential Guide to Overcoming Chronic Fatigue and Fibromyalgia, Made Easy!**
+
+Jacob Teitelbaum
+
+---
+
+<img height="200" align="right" src="./images/clean-architecture.jpg"/>
+
+*21.07.2019*
+
+**Чистая архитектура.\
+Искусство разработки программного обеспечения**
+
+Роберт Мартин
+
+**Clean Architecture:\
+A Craftsman's Guide to Software Structure and Design**
+
+Robert C. Martin
+
+---
+
+<img height="200" align="right" src="./images/power-full-eng.jpg"/>
+
+*28.07.2019*
+
+**Жизнь на полной мощности.\
+Управление энергией - ключ к высокой эффективности, здоровью и счастью**
+
+Лоэр Джим, Шварц Тони
+
+**Power of Full Engagement\
+Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal**
+
+Loehr Jim, Schwartz Tony
+
+---
